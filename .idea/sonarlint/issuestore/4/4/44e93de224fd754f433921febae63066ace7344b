@@ -1,0 +1,20 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Öø£İÿÿÿÿÿ8¥©óŒŞ/
+Q
+java:S3740!"/Provide the parametrized type for this generic.(ìÛÿ¨ùÿÿÿÿ8¦©óŒŞ/
+L
+java:S3740\"/Provide the parametrized type for this generic.(‚È…Î8‘±şŒŞ/
+L
+java:S3740\"/Provide the parametrized type for this generic.(‚È…Î8‘±şŒŞ/
+>
+java:S1068"(Remove this unused "name" private field.(Ú§×œ
+G
+java:S1068"*Remove this unused "artist" private field.(ËûŒô8²ıŒŞ/
+
+java:S1319"tThe type of the "playList" object should be an interface such as "List" rather than the implementation "LinkedList".(Öø£İÿÿÿÿÿ
+
+java:S1319!"tThe type of the "playList" object should be an interface such as "List" rather than the implementation "LinkedList".(ìÛÿ¨ùÿÿÿÿ
+‹
+java:S1319,"pThe type of the "songs" object should be an interface such as "List" rather than the implementation "ArrayList".(øÊ–¨øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÑ‘ïúÿÿÿÿ
